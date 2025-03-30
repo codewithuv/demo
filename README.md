@@ -1,10 +1,9 @@
-# 🚀 **PROJECT NAME** - *Where Code Meets Art* 🎨  
+# 🚀 **Welcome** - *Where Code Meets Art* 🎨  
 
 **✨ A Living, Breathing, Pulse-Pounding Tech Masterpiece ✨**  
 
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/repo?style=social)](https://github.com/yourusername/repo) 
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle) 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.repo)  
+[![GitHub Stars](https://img.shields.io/github/stars/codewithuv/repo?style=social)](https://github.com/codewithuv/demo) 
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=codewithuv.repo)  
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300">
@@ -53,8 +52,8 @@ const project = new Awesome({
 **Get started in 3...2...1...**  
 
 ```bash
-✨ git clone https://github.com/yourusername/repo.git
-💫 cd repo
+✨ git clone https://github.com/codewithuv/demo.git
+💫 cd demo
 🌌 npm install
 🚀 npm run launch-sequence
 ```
@@ -68,14 +67,8 @@ const project = new Awesome({
 ## 📡 **Connect**  
 **Let's make magic together**  
 
-<div align="center">
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://media.giphy.com/media/XEZEHJm0bBZXR2X7Gj/giphy.gif" width="100">
-  </a>
-  <a href="mailto:you@awesome.dev">
-    <img src="https://media.giphy.com/media/3o7TKr2cLXfU3MWNT2/giphy.gif" width="100">
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
+
+  <a href="https://www.linkedin.com/in/utkarsh-gupta-2005oct10/">
     <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="100">
   </a>
 </div>
@@ -100,8 +93,7 @@ const project = new Awesome({
 ## 🌠 **Beyond**  
 **This is just the beginning...**  
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/you)
-[![Sponsor](https://img.shields.io/badge/Sponsor-%23EA4AAA.svg?logo=github-sponsors&logoColor=white)](https://github.com/sponsors/yourusername)
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="300">
@@ -111,4 +103,4 @@ const project = new Awesome({
 
 **💫 Keep shining, rockstar coder! 💫**  
 
-<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fyourusername%2Frepo%2Fblob%2Fmain%2FREADME.md&style=default&type=code&showBorder=on&showLineNumbers=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
+
